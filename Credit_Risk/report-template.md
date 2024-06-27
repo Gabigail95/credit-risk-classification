@@ -1,5 +1,3 @@
-# Module 12 Report
-
 
 ## Overview of the Analysis
 The purpose of this analysis is to develop and evaluate a machine learning model that can accurately predict the creditworthiness of borrowers based on historical lending data. The logistic regression model aims to classify loans as either "healthy" (low-risk) or "high-risk" based on various financial metrics and borrower characteristics. This is aimed to aid lending companies by minimizing the risk of default and optimize their lending decisions.
