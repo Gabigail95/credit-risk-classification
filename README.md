@@ -1,7 +1,5 @@
 # credit-risk-classification
 
-# Module 12 Report
-
 ## Files Breakdown
 - Within the Credit_Risk directory, please see:
     - credit_risk_classification.ipynb
